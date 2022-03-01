@@ -62,7 +62,7 @@ PLATFORMS
   x64-mingw-ucrt
 
 DEPENDENCIES
-  jekyll
+  jekyll (~> 4.2)
   liquid (~> 4.0)
   webrick (~> 1.7)
 
